@@ -8,5 +8,3 @@ scipy==1.13.1
 scikit-learn==1.5.1
 
 streamlit==1.36.0
-
-python-3.11.9
