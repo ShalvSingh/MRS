@@ -1,0 +1,31 @@
+# Environment and local config
+.env
+.env.*
+hhge44ewwwwwsds sszaII
+# Virtual environments
+.venv/
+.myvenv/
+venv/
+env/
+
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Generated data/model artifacts in this project
+*.pkl
+
+# Editor settings
+.vscode/
+.idea/
