@@ -4,8 +4,8 @@ A personal movie recommendation system built for learning and portfolio purposes
 
 ## Live Demo
 
-- Frontend: add your Streamlit link here
-- Backend/API: add your Render link here
+- Frontend: https://kekyshipju8vy2pefpccba.streamlit.app/
+- Backend/API:https://mrs-sfgs.onrender.com/docs
 
 ## Features
 
